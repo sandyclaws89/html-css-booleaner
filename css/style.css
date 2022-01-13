@@ -1,7 +1,5 @@
 header {
-
     background-color: cornflowerblue;
-    
 }
 
 .img_size { 
@@ -14,6 +12,19 @@ header {
     font-weight: bolder;
 }
 
+.color2{
+    background-color: cornflowerblue;
+    
+}
+
+.color3{
+    color: white;
+}
+
+.color4{
+    background-color: turquoise;
+}
+
 .form1 {
     font-size: 12px;
 }
@@ -21,3 +32,22 @@ header {
 .form2{
 background-color: gold;
 }
+
+.form3{
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+}
+
+.sfondo1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 250px;
+}
+
+.sfondo2{    
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 250px;
+}
+
