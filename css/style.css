@@ -1,0 +1,23 @@
+header {
+
+    background-color: cornflowerblue;
+    
+}
+
+.img_size { 
+    height: 150px;
+    width: auto;
+}
+
+.color1{
+    color:grey;
+    font-weight: bolder;
+}
+
+.form1 {
+    font-size: 12px;
+}
+
+.form2{
+background-color: gold;
+}
